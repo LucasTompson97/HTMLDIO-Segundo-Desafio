@@ -1,4 +1,5 @@
 # Segundo desafio da formação HTML Developer da DIO - Digital Innovation One
+>Status: Concluído :heavy_check_mark:
 ![segundo_desafiodio01](https://user-images.githubusercontent.com/40512508/229332655-32cec782-0f62-4ef6-b3fd-fe64d1d90c71.png)
 ![segundo_desafiodio02](https://user-images.githubusercontent.com/40512508/229332674-15b95ce5-ea1a-432f-b8ee-bab6baab203e.png)
 ![segundo_desafiodio03](https://user-images.githubusercontent.com/40512508/229332680-a1418fdb-4115-4f5d-8285-6f2c8fc7f92d.png)
@@ -6,7 +7,7 @@
 
 
 
->Status: Concluído :heavy_check_mark:
+
 ### Criar um site "quase" completo, com tudo que foi visto neste módulo. Os temas que deverão ser abordados são:
 + Formulários
 + Estruturação e formatação de texto
